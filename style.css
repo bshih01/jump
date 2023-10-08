@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.textbox {
+    border: 1px solid;
+    width: 100px;
+    height: 20px;
+}
+button {
+    padding: 5px 15px;
+    cursor: pointer;
+}
